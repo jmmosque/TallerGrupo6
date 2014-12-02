@@ -1,1 +1,5 @@
-Jennyfer Mosquera Farias (editando)
+<<<<<<< HEAD
+Jennyfer Mosquera Farias 
+Hector Chimbo Pinargote 
+Francisco Miranda.
+
